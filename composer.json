@@ -1,11 +1,11 @@
 {
-    "name": "pdocs/laravel-docschema-nlic",
-    "description": "Laravel simple web doc schema",
+    "name": "pdocs/installer-debug-solver-nlic",
+    "description": "Laravel simple installer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Lim",
-            "email": "amarlim@gmail.com"
+            "name": "Mahadi Hassan",
+            "email": "mahadi.web.86@gmail.com"
         } 
     ],
     "credit": [
